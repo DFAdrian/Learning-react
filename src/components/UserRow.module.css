@@ -1,0 +1,21 @@
+.user{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #bbb;
+    padding: .8em;
+    border-radius: 1rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.name{
+    font-size: 1.1rem;
+    width: 35%;
+}
+
+.action{
+    cursor: pointer;
+    width: 15%;
+}
+

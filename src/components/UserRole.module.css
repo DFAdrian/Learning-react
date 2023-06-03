@@ -1,0 +1,25 @@
+.roles{
+    font-size: .8rem;
+    text-transform: uppercase;
+    padding: .4em;
+    border-radius: 5px;
+}
+
+.roles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+}
+
+.frontEnd{
+    background-color: cornflowerblue;
+}
+
+.tech{
+    background-color: rgb(110, 111, 114);
+}
+
+.other{
+    background-color: rgb(23, 73, 221);
+}

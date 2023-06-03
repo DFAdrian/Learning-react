@@ -1,0 +1,15 @@
+.active{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    text-transform: capitalize;
+}
+
+.on{
+    color: green;
+}
+
+.off{
+    color: red;
+}
